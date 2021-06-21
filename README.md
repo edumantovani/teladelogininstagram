@@ -8,7 +8,7 @@
 
 <h3 align="center">
   Deploy da Aplicação com Git Pages:
-  <a href="https://edumantovani.github.io/Instagram/" target="__blank">ACESSE AQUI </p>
+  <a href="https://edumantovani.github.io/teladelogininstagram/" target="__blank">ACESSE AQUI </p>
 </h3>
 
 
