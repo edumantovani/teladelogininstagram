@@ -19,7 +19,3 @@
 <p align="center">
   <img src="./assets/Desktop.gif" alt="" width="600px" height="300px">
 </p>
-
-<p align="center">
-  Feito com :heart:
-</p>
